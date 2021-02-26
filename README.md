@@ -1,6 +1,7 @@
 # QUIZ GAME :raised_hand:
     UPDATED!
-    I have created a quiz game with python. It has 25 questions and each of them in the computer science category. Good luck with the quiz and don't forget to FUN!
+    I have created a quiz game with python. It has 25 questions and each of them in the computer science category.
+    Good luck with the quiz and don't forget to FUN!
     I used this api endpoint https://opentdb.com/api.php for get the datas. You can check that out in my codes.
   [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
